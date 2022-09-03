@@ -1,0 +1,196 @@
+City_ID,City,Country,Max Temp,Description,Lat,Lng,Hotel Name
+0,Kapaa,US,84.52,scattered clouds,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+2,Harper,LR,75.58,scattered clouds,4.375,-7.7169,Screensaver
+5,Itarema,BR,78.03,scattered clouds,-2.9248,-39.9167,"Sea Lounge! Bar, Club & Restaurant"
+12,Nhulunbuy,AU,75.81,broken clouds,-12.2333,136.7667,East Arnhem Real Estate
+14,Ixtapa,MX,87.03,broken clouds,20.7,-105.2,hotel la terminal
+24,Mayo,US,80.94,clear sky,38.8876,-76.5119,Resorts Resource Group International
+34,Atuona,PF,77.07,scattered clouds,-9.8,-139.0333,Hôtel Hiva Oa Hanakee Lodge
+35,Singaraja,ID,80.65,few clouds,-8.112,115.0882,Puri Bagus Lovina Resort
+37,Vaini,TO,75.36,few clouds,-21.2,-175.2,Keleti Beach Resort
+40,Naze,JP,80.06,light rain,28.3667,129.4833,Shishime Hotel
+45,Hilo,US,88.29,clear sky,19.7297,-155.09,Hilo Hawaiian Hotel
+49,Fort Nelson,CA,76.71,scattered clouds,58.8053,-122.7002,The Fort Nelson Hotel
+51,Kudahuvadhoo,MV,81.59,clear sky,2.6708,72.8944,Niyama Private Islands Maldives
+53,Marrakesh,MA,80.67,scattered clouds,31.6315,-8.0083,Les Jardins de La Koutoubia
+54,Georgetown,MY,79.9,few clouds,5.4112,100.3354,Cititel Penang
+64,Sao Filipe,CV,78.39,broken clouds,14.8961,-24.4956,Hotel Xaguate
+66,Goderich,CA,77.92,overcast clouds,43.7501,-81.7165,Harmony Inn
+72,Butaritari,KI,82.24,clear sky,3.0707,172.7902,Isles Sunset Lodge
+75,Digha,IN,82.0,overcast clouds,21.6833,87.55,Khoniker Atithi
+76,Bubaque,GW,78.55,moderate rain,11.2833,-15.8333,"Casa Dora, Bubaque"
+85,Mitchell,US,80.58,clear sky,43.7094,-98.0298,Kelly Inn & Suites
+87,Kralendijk,BQ,84.18,few clouds,12.15,-68.2667,Divi Flamingo Beach Resort & Casino
+90,Vidisha,IN,76.17,broken clouds,23.5333,77.8167,STARiHOTELS Railway station Vidisha
+96,Santo Antonio Do Ica,BR,75.27,overcast clouds,-3.1022,-67.9397,HOTEL AMAZON WAY
+100,Smithers,CA,75.0,overcast clouds,54.7804,-127.1743,"Prestige Hudson Bay Lodge, Premier Collection"
+103,Gunjur,GM,75.27,moderate rain,13.2019,-16.7339,Jallo Kurundingoto Eco Tourist Camp
+105,Sirawai,PH,82.31,overcast clouds,7.5854,122.1407,Santo Niño Beach
+112,Gillette,US,86.11,clear sky,44.2911,-105.5022,National 9 Inn - Gillette WY
+114,Hithadhoo,MV,80.58,broken clouds,-0.6,73.0833,Scoop Guest House
+116,Palu,ID,81.75,broken clouds,-0.8917,119.8707,Hotel Santika Palu
+117,Hobyo,SO,75.49,broken clouds,5.3505,48.5268,Halane Hotel and Restaurent
+118,San Pedro,PH,79.36,light rain,14.35,121.0167,Palines Apartment and Guesthouse
+122,Nieves,PH,80.11,overcast clouds,15.3274,120.9485,Bill's Inn
+124,Avarua,CK,78.85,few clouds,-21.2078,-159.775,Paradise Inn
+126,Makakilo City,US,88.12,few clouds,21.3469,-158.0858,Marriott's Ko Olina Beach Club
+127,Kavieng,PG,85.12,overcast clouds,-2.5744,150.7967,Nusa Island Retreat
+132,Upata,VE,77.2,overcast clouds,8.0086,-62.3989,Posada Villa Nela
+134,Faanui,PF,78.6,clear sky,-16.4833,-151.75,Bora-Bora Pearl Beach Resort & Spa
+135,Brunswick,US,79.02,broken clouds,41.2381,-81.8418,Quality Inn Brunswick Cleveland South
+140,Dwarka,IN,80.73,broken clouds,22.2394,68.9678,Hotel Narayan Avezika Comfort
+145,Lamar,US,84.36,clear sky,33.6668,-95.5836,Kings Inn Paris TX
+153,Limbang,MY,78.91,overcast clouds,4.75,115.0,Purnama Hotel
+162,Fort Saint James,CA,79.99,overcast clouds,54.4333,-124.25,The View Hotel
+165,Sur,OM,81.75,clear sky,22.5667,59.5289,Sur Plaza Hotel
+168,Saint-Georges,GD,80.28,few clouds,12.0564,-61.7485,Radisson Grenada Beach Resort
+169,Touros,BR,75.56,clear sky,-5.1989,-35.4608,INN NEW HORIZON
+175,Oussouye,SN,80.69,light rain,12.485,-16.5469,Auberge du Routard
+180,Najran,SA,77.65,scattered clouds,17.4924,44.1277,محمد هادي ال فطيح
+181,Guinticgan,PH,82.29,overcast clouds,11.5641,123.1236,Jeanette Resort Carles Iloilo B&B
+183,Hasaki,JP,75.6,broken clouds,35.7333,140.8333,Inubosaki Kanko Hotel
+189,Fountain,US,91.35,scattered clouds,38.6822,-104.7008,Colorado Springs KOA Holiday
+191,Aswan,EG,88.54,few clouds,24.0934,32.907,Nuba Nile
+197,Motril,ES,82.04,overcast clouds,36.7507,-3.5179,Elba Motril Hotel Beach & Business Hotel
+201,Mangan,IN,75.49,overcast clouds,27.5167,88.5333,Hotel Mout View
+204,Empalme,MX,87.85,overcast clouds,27.9667,-110.8167,Casa de la mary
+205,Osmena,PH,82.63,overcast clouds,10.5208,119.9258,Arjemarkyza Lodge
+210,Nishihara,JP,80.65,mist,26.1842,127.7558,Minshuku Agaihama
+213,Pathein,MM,78.85,overcast clouds,16.7833,94.7333,Pathein Hotel
+217,Namatanai,PG,84.87,scattered clouds,-3.6667,152.4333,Seagulls Inn Namatani
+218,Muisne,EC,75.16,overcast clouds,0.6,-80.0333,Quinta Samay
+224,San Patricio,US,89.55,overcast clouds,28.017,-97.5169,"Motel 6 Sinton, TX"
+226,Labuhan,ID,78.98,scattered clouds,-6.8844,112.2051,DoubleFAG
+228,Acapulco,MX,85.82,overcast clouds,16.8634,-99.8901,HS Hotsson Smart Acapulco
+233,Traverse City,US,80.71,broken clouds,44.7631,-85.6206,Bayshore Resort
+234,Katsuura,JP,77.9,overcast clouds,35.1333,140.3,Katsuura Hotel Mikazuki
+238,Mirpur Sakro,PK,79.97,broken clouds,24.5474,67.6277,Ali muhammad’s house
+248,Guiratinga,BR,79.63,clear sky,-16.3494,-53.7583,Hotel Angra do Cerrado - Guiratinga MT
+251,Lamin,GM,75.31,moderate rain,13.3522,-16.4339,Jerreh Camp Lodge
+253,Ca Mau,VN,81.18,overcast clouds,9.1769,105.15,Mường Thanh Luxury Cà Mau Hotel
+255,Kozan,TR,77.2,clear sky,37.4552,35.8157,Ortaklar Kiz Ogrenci Yurdu
+259,Anloga,GH,75.52,broken clouds,5.7947,0.8973,Pin Drop Hotel
+262,Shimoda,JP,77.36,scattered clouds,34.6667,138.95,Shimoda Tokyu Hotel
+264,Petatlan,MX,89.4,overcast clouds,17.5167,-101.2667,Hotel California Petatlán
+265,Vanimo,PG,83.46,broken clouds,-2.6741,141.3028,Vahmoneh Lodge Vanimo
+269,Kirakira,SB,80.83,overcast clouds,-10.4544,161.9205,SanBiz Lodge
+270,Cayenne,GF,78.84,clear sky,4.9333,-52.3333,Hôtel Le Dronmi
+273,Ambulu,ID,76.62,few clouds,-8.345,113.6058,Hotel Ambulu Jember
+278,Siuna,NI,76.06,overcast clouds,13.7332,-84.7773,hotel los chinitos
+281,Seydi,TM,76.55,clear sky,39.4816,62.9137,Seydi oteli
+284,Wanning,CN,79.75,overcast clouds,18.8003,110.3967,Paradise Hotel
+285,Sibu,MY,77.31,scattered clouds,2.3,111.8167,RH HOTEL (4 Star)
+286,Tamluk,IN,80.01,light rain,22.3,87.9167,Green Valley Resort
+288,Wewak,PG,83.64,broken clouds,-3.5534,143.6268,In Wewak Boutique Hotel
+290,Nador,MA,82.65,clear sky,35.174,-2.9287,Hôtel La Giralda
+291,Veraval,IN,79.79,clear sky,20.9,70.3667,Lords Inn Somnath
+293,Cockburn Town,TC,82.96,clear sky,21.4612,-71.1419,Osprey Beach Hotel
+294,San Quintin,MX,81.36,clear sky,30.4833,-115.95,Don Eddie's Sport Fishing Center
+295,Sinnamary,GF,80.17,overcast clouds,5.3833,-52.95,ALETHEIA Appartement Sinnamary
+299,Atambua,ID,79.43,few clouds,-9.1061,124.8925,Kost Alfa Flat
+302,Fare,PF,78.69,clear sky,-16.7,-151.0167,Maitai Lapita Village Huahine
+304,Batticaloa,LK,79.27,scattered clouds,7.7102,81.6924,Grand Star Guest House
+305,Isangel,VU,77.13,overcast clouds,-19.55,169.2667,Tanna Lodge
+306,Forest,US,76.91,clear sky,37.3638,-79.2897,Days inn
+307,Cravo Norte,CO,80.11,broken clouds,6.3017,-70.2041,Hotel Potosí Los Mirtos
+309,Lorengau,PG,84.15,overcast clouds,-2.0226,147.2712,Lorengau Harbourside Hotel
+310,Pacific Grove,US,89.38,few clouds,36.6177,-121.9166,Lovers Point Inn
+313,Cabo San Lucas,MX,83.61,overcast clouds,22.8909,-109.9124,Hotel Tesoro Los Cabos
+314,Luwuk,ID,82.22,scattered clouds,-0.9516,122.7875,Hotel Santika Luwuk
+327,Umm Lajj,SA,84.11,broken clouds,25.0213,37.2685,Moon light Furnished Units
+328,Tiarei,PF,82.42,clear sky,-17.5333,-149.3333,Le Rocher de Tahiti
+335,Male,MV,78.75,broken clouds,4.1748,73.5089,Hotel Octave Maldives
+337,Puerto Narino,CO,77.85,broken clouds,-3.7703,-70.3831,Eware Refugio Amazonico
+340,Tucurui,BR,77.74,few clouds,-3.7661,-49.6725,BBB Rooms Centro Tucurui PA
+341,Kieta,PG,83.82,overcast clouds,-6.2167,155.6333,Uruna Bay Retreat
+342,Boyolangu,ID,76.26,broken clouds,-8.1181,111.8935,Yos ega cv
+348,Ocos,GT,75.38,overcast clouds,14.5094,-92.1933,Auto Hotel El Soñador
+349,Casper,US,88.39,clear sky,42.8666,-106.3131,Ramkota Hotel
+350,Hamilton,US,82.26,clear sky,39.1834,-84.5333,Six Acres Bed & Breakfast
+351,San Andres,CO,84.22,broken clouds,12.5847,-81.7006,Hotel Arena Blanca
+356,Mandan,US,77.36,clear sky,46.8267,-100.8896,Twin City Estates
+357,Muroto,JP,81.57,overcast clouds,33.2833,134.15,Oota Ryokan
+360,Ofaqim,IL,75.7,few clouds,31.3141,34.6203,The Negev Experience
+361,Awjilah,LY,79.3,clear sky,29.1081,21.2869,المنزل
+364,Aiken,US,78.71,clear sky,33.5835,-81.5998,Aiken Cottages
+366,Bardiyah,LY,77.29,clear sky,31.7561,25.0865,بورتو بردية
+367,San Cristobal,VE,75.38,overcast clouds,7.7669,-72.225,Pirineos
+368,Rapid City,US,87.26,clear sky,44.0805,-103.231,"Hotel Alex Johnson Rapid City, Curio Collection by Hilton"
+373,Rock Hill,US,83.07,clear sky,34.9249,-81.0251,DDCSVC
+375,Voh,NC,78.01,overcast clouds,-20.9667,164.7,Le gîte du Koniambo
+376,Dingle,PH,81.54,overcast clouds,10.9995,122.6711,SEGAYA PROPERTY
+381,Derbent,RU,79.41,clear sky,42.0678,48.2899,Elit
+384,Rudsar,IR,75.18,clear sky,37.1376,50.288,Hotel Bahar
+389,Virginia Beach,US,81.01,scattered clouds,36.8529,-75.978,Hilton Virginia Beach Oceanfront
+392,Salalah,OM,77.09,broken clouds,17.0151,54.0924,"HAMDAN PLAZA HOTEL SALALAH, an HTG Hotel"
+393,Guerrero Negro,MX,83.97,broken clouds,27.9769,-114.0611,"Casa Laguna, Bed & Breakfast"
+395,Ometepec,MX,75.58,overcast clouds,16.6833,-98.4167,MH Grand Hotel - Ometepec
+400,Angicos,BR,76.06,few clouds,-5.6656,-36.6011,Pousada Vovó Haidê
+402,Bima,ID,82.94,few clouds,-8.4667,118.7167,Lambitu Hotel
+406,Chapada Dos Guimaraes,BR,80.26,scattered clouds,-15.4606,-55.7497,Pousada Morro Dos Ventos
+407,Kahului,US,89.62,few clouds,20.8947,-156.47,Maui Seaside Hotel
+411,Surt,LY,79.88,clear sky,31.2089,16.5887,فندق المدينة
+413,Alexandria,EG,79.3,clear sky,31.2156,29.9553,Royal Crown Hotel
+422,Saint Anthony,US,84.09,broken clouds,45.0205,-93.218,Holiday Inn Express Roseville-St. Paul
+425,Accra,GH,75.61,scattered clouds,5.556,-0.1969,Accra City Hotel
+426,Bahawalnagar,PK,83.75,clear sky,30.5508,73.3908,Malik Amir Munir Jhakhar
+428,Rabaul,PG,82.69,few clouds,-4.1967,152.1721,Rabaul Hotel
+429,Santa Ines,BR,77.94,few clouds,-3.6667,-45.38,Palace hotel
+432,Yarada,IN,80.92,mist,17.65,83.2667,Yarada Jungle Beach Resorts
+433,Beaverlodge,CA,85.35,broken clouds,55.2166,-119.4361,Side Trax Inn
+436,High Rock,BS,82.42,scattered clouds,26.6208,-78.2833,Hideaway Bahamas Beach Club
+438,Nizwa,OM,80.96,scattered clouds,22.9333,57.5333,Orient Apartments
+439,San Policarpo,PH,82.54,overcast clouds,12.1791,125.5072,Agapita M. Nicart
+444,Huntsville,US,84.45,scattered clouds,34.7304,-86.5861,Embassy Suites by Hilton Huntsville
+445,Pacifica,US,82.49,few clouds,37.6138,-122.4869,"Pacifica Lighthouse, Trademark Collection by Wyndham"
+446,Kavaratti,IN,79.77,broken clouds,10.5669,72.642,Green leaf
+448,Rosarito,MX,93.24,clear sky,32.3333,-117.0333,Hotel Festival Plaza Rosarito
+450,Victoria,HK,86.25,few clouds,22.2855,114.1577,Mini Central
+455,Montes Altos,BR,81.37,clear sky,-5.8333,-47.0667,Hotel e Restaurante Manaaim
+457,La Asuncion,VE,80.33,scattered clouds,11.0333,-63.8628,Colinas de Matasiete
+460,Sheridan,US,89.98,clear sky,44.8333,-106.9173,Comfort Inn & Suites
+464,Nanakuli,US,89.55,few clouds,21.3906,-158.1547,Camp Pālehua
+465,Adeje,ES,75.11,few clouds,28.1227,-16.726,Gran Tacande Wellness & Relax
+469,Sault Sainte Marie,CA,75.76,clear sky,46.5168,-84.3333,Comfort Inn
+470,Ariquemes,BR,84.47,scattered clouds,-9.9133,-63.0408,Hotel Sol Nascente - Ariquemes - RO
+472,Finschhafen,PG,83.97,few clouds,-6.6024,147.8681,Cossam Guest House
+473,Carutapera,BR,78.22,clear sky,-1.195,-46.02,Lidera
+474,Araguaina,BR,78.37,clear sky,-7.1911,-48.2072,Hotel São Vicente
+477,Kumluca,TR,76.77,clear sky,36.3703,30.2869,Akkol Apart
+478,Stephenville,US,81.39,clear sky,32.2207,-98.2023,La Quinta Inn & Suites by Wyndham Stephenville
+480,Fort-Shevchenko,KZ,79.34,clear sky,44.5086,50.263,Oasis hotel Bautino
+481,Boa Vista,BR,78.78,light rain,2.8197,-60.6733,Aipana Plaza Hotel
+485,Alenquer,BR,80.73,overcast clouds,-1.9417,-54.7383,Detinha Hotel
+489,Napoleon,US,78.94,overcast clouds,41.3923,-84.1252,Holiday Inn & Suites
+493,Hambantota,LK,77.41,broken clouds,6.1241,81.1185,Bungalow 63
+494,Ciudad Bolivar,VE,82.51,overcast clouds,8.1222,-63.5497,Hotel Edi
+495,Half Moon Bay,US,91.54,mist,37.4636,-122.4286,"The Ritz-Carlton, Half Moon Bay"
+498,Erzin,TR,78.04,few clouds,36.9559,36.2,Artemis Otel
+503,Kuryk,KZ,82.11,clear sky,43.2,51.65,Gostinitsa Kuryk - Otel' Dlya Vsekh Kategoriy Kliyentov .
+507,Shahpura,IN,81.05,broken clouds,27.3833,75.9667,Shahpura Haveli
+510,Portland,US,92.84,smoke,45.5234,-122.6762,Embassy Suites by Hilton Portland Downtown
+513,Katherine,AU,75.52,clear sky,-14.4667,132.2667,Pine Tree Motel
+516,Nabire,ID,82.29,overcast clouds,-3.3667,135.4833,Hotel Nusantara I
+517,Namie,JP,77.72,broken clouds,37.4833,141.0,いこいの村なみえ
+519,Dawson Creek,CA,85.64,clear sky,55.7666,-120.2362,Peace Villa Motel
+523,Dezful,IR,92.88,clear sky,32.3811,48.4058,مهمانپذیر خوزستان
+530,Black River,JM,79.79,overcast clouds,18.0264,-77.8487,Idlers' Rest Beach Hotel
+534,Flagstaff,US,89.6,clear sky,35.1981,-111.6513,Drury Inn & Suites Flagstaff
+535,Dawei,MM,77.97,overcast clouds,14.0833,98.2,Hotel Dawei
+536,Riyadh,SA,84.34,scattered clouds,24.6877,46.7219,"InterContinental Riyadh, an IHG Hotel"
+537,Madinat Sittah Uktubar,EG,78.4,clear sky,29.8167,31.05,Happy Kennel Academy
+547,Senador Pompeu,BR,78.48,clear sky,-5.5881,-39.3717,Pousada Ki-Delicia
+549,Rio Verde De Mato Grosso,BR,83.25,few clouds,-18.9181,-54.8442,Quedas Palace Hotel
+550,Mapimi,MX,82.87,overcast clouds,25.8167,-103.85,Propiedad Lldm
+552,Pindwara,IN,79.36,overcast clouds,24.8,73.0667,Bamanwadji Jain Dharamshala
+553,Fredericksburg,US,81.41,broken clouds,38.3032,-77.4605,Courtyard by Marriott Fredericksburg Historic District
+554,Dalbandin,PK,83.28,clear sky,28.8947,64.4101,Sanjrani House
+555,Tahoua,NE,83.97,overcast clouds,14.8888,5.2692,Bungalows Guesthouse
+556,Eureka,US,76.68,broken clouds,40.8021,-124.1637,Eureka Inn Trademark By Wyndham
+559,Buraydah,SA,81.05,clear sky,26.326,43.975,Mövenpick Qassim
+562,Sujangarh,IN,85.1,broken clouds,27.7011,74.4649,Hotel BDS International
+563,Puerto Carreno,CO,78.67,overcast clouds,6.189,-67.4859,Casa Hotel Victoria
+566,Kaspiyskiy,RU,79.56,overcast clouds,45.3929,47.3707,"Gostinitsa ""Gostevoy Dvor"""
+567,Zhenhai,CN,84.88,broken clouds,24.2582,118.0905,In Zhijian Guesthouse
+570,Narasannapeta,IN,79.66,scattered clouds,18.4167,84.05,AVK events and catering
+571,Sola,VU,81.27,broken clouds,-13.8833,167.55,Leumerus Bungalows
